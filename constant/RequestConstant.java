@@ -1,21 +1,13 @@
-package practice.sipserver.common.constant;
+package com.studio.common.constant;
 
 public class RequestConstant {
     /**
-     * 一般请求
+     * 请求
      */
-    public static final String COMMON_REQUEST = "common.request";
+    public static final String REQUEST = "request";
     /**
-     * 一般响应
+     * 响应
      */
-    public static final String COMMON_RESPONSE = "common.response";
-    /**
-     * 通讯请求
-     */
-    public static final String SIP_REQUEST = "sip.request";
-    /**
-     * 通讯响应
-     */
-    public static final String SIP_RESPONSE = "sip.response";
+    public static final String RESPONSE = "response";
 
 }

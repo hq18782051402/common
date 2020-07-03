@@ -1,4 +1,4 @@
-package practice.sipserver.common.interfaces.mysql;
+package com.studio.common.interfaces.mysql;
 
 public interface UserService {
 }

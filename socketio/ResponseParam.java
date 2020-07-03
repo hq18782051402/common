@@ -1,4 +1,4 @@
-package practice.sipserver.common.socketio;
+package com.studio.common.socketio;
 
 /**
  * Created by 金隧 on 2019/5/15.

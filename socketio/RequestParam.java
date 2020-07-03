@@ -1,4 +1,4 @@
-package practice.sipserver.common.socketio;
+package com.studio.common.socketio;
 
 import lombok.Data;
 
